@@ -1,0 +1,33 @@
+# Bytecode do Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Ambientes virtuais
+venv/
+.env/
+.venv/
+
+# Arquivos temporários / de sistema
+.DS_Store
+Thumbs.db
+
+
+# Notebooks (se você usar)
+.ipynb_checkpoints/
+
+# Arquivos de log ou debug
+*.log
+
+# Arquivos de configuração pessoais (PyCharm, VSCode, etc.)
+.vscode/
+.idea/
+
+# Arquivos temporários do sistema
+*.swp
+*~
+
+# Arquivos gerados por testes
+__results__/
+*.out
+*.tmp
